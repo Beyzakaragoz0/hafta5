@@ -1,0 +1,7 @@
+.inPBox {
+  background-color: #FFFFFF;
+  border: solid 1px #666666;
+}
+.inPBoxError {
+  border: solid 2px #FF0000;
+}

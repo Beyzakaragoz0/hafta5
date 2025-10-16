@@ -1,0 +1,31 @@
+@charset "utf-8";
+body {
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+ul {
+  padding: 0;
+  list-style: none;
+  display: inline-block;
+}
+#menu-wrapper {
+  background: #333;
+  width: 422px;
+  margin: 0 auto;
+}
+#menu li a {
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  font-weight: bold;
+  padding: 10px 5px;
+}
+#menu li a {
+  font-weight: bold;
+  padding: 10px 5px;
+}
+#menu li:hover {
+  background: #30039;
+  text-shadow: 0 0 2px #000;
+}
